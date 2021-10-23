@@ -10,4 +10,4 @@ Loss: Cross entropy loss
 
 Optimizer: Adam with learning rate 0.00001
 
-GPU: Tesla K80
+GPU: Tesla P100
